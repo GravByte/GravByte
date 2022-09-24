@@ -13,10 +13,6 @@ I am also a Virtual Reality and Tech enthusiast
 *   ✉️  You can contact me at [brandonn@duck.com](mailto:brandonn@duck.com)
 *   🧠  I'm learning VR game development
 
-I am experienced in a range of programming languages including:
-Python 
-C#
-Javascript 
 
 Familiar Tools
 --------------
