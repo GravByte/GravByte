@@ -21,11 +21,14 @@ Familiar Tools
 
 ### Game Engines
 
-Unity/Unreal Engine 
+*   Unity
+*   Unreal Engine 
 
 ### Source Control
 
-Git/Github/Plastic SCM
+*   Git
+*   Github
+*   Plastic SCM
 
 ### Skills 
 <p align="left">
