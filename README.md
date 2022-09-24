@@ -4,8 +4,10 @@ Hi 👋 My name is Brandon
 Game Developer
 --------------
 
-I am a Student Game Developer working on a BSc in Game Design. 
-Whilst I am very much a jack of all trades person, my areas of focus are game programming and design, where I excel at. 
+I am a Student Game Developer working on a BSc in Game Design.
+
+Whilst I am very much a jack of all trades person, my areas of focus are game programming and design, where I excel at.
+
 I am also a Virtual Reality and Tech enthusiast
 
 *   🌍  I'm based in The United Kingdom
