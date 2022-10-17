@@ -11,7 +11,7 @@ Whilst I am very much a jack of all trades person, my areas of focus are game pr
 I am also a Virtual Reality and Tech enthusiast
 
 *   🌍  I'm based in The United Kingdom
-*   🖥️  See my portfolio at [brandonlnyman.com](http://brandonlnyman.wordpress.com)
+*   🖥️  See my portfolio at [brandonlnyman.co.uk](http://brandonlnyman.co.uk)
 *   ✉️  You can contact me at [brandonn@duck.com](mailto:brandonn@duck.com)
 *   🧠  I'm learning VR game development
 
