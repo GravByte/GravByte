@@ -12,7 +12,7 @@ I am also a Virtual Reality and Tech enthusiast
 
 *   🌍  I'm based in The United Kingdom
 *   🖥️  See my portfolio at [brandonlnyman.co.uk](http://brandonlnyman.co.uk)
-*   ✉️  You can contact me at [brandonn@duck.com](mailto:brandonn@duck.com)
+*   ✉️  You can contact me at [contact@brandonlnyman.co.uk](mailto:contact@brandonlnyman.co.uk)
 *   🧠  I'm learning VR game development
 
 
