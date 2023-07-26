@@ -4,16 +4,16 @@ Hi 👋 My name is Brandon
 Game Developer
 --------------
 
-I am a Student Game Developer working on a BSc in Game Design.
+I am a Student Game Developer who recently received a 1st in a BSc Game Design degree.
 
-Whilst I am very much a jack of all trades person, my areas of focus are game programming and design, where I excel at.
+Whilst I am very much a jack-of-all-trades person, my areas of focus are game programming and design, where I excel at.
 
 I am also a Virtual Reality and Tech enthusiast
 
 *   🌍  I'm based in The United Kingdom
 *   🖥️  See my portfolio at [brandonlnyman.co.uk](http://brandonlnyman.co.uk)
 *   ✉️  You can contact me at [contact@brandonlnyman.co.uk](mailto:contact@brandonlnyman.co.uk)
-*   🧠  I'm learning VR game development
+*   🧠  I'm learning VR game development & web development
 
 
 Familiar Tools
@@ -29,6 +29,7 @@ Familiar Tools
 *   Git
 *   Github
 *   Plastic SCM
+*   Perforce
 
 ### Skills 
 <p align="left">
