@@ -19,6 +19,11 @@ I am also a Virtual Reality and Tech enthusiast
 Familiar Tools
 --------------
 
+### Web Development
+*   ASP.NET Core
+*   HTML
+*   JavaScript
+
 ### Game Engines
 
 *   Unity
@@ -26,10 +31,10 @@ Familiar Tools
 
 ### Source Control
 
-*   Git
-*   Github
+*   Git + Github
 *   Plastic SCM
 *   Perforce
+*   BitBucket + Jira
 
 ### Skills 
 <p align="left">
