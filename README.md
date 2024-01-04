@@ -4,7 +4,7 @@ Hi 👋 My name is Brandon
 Game Developer
 --------------
 
-I am a Student Game Developer who recently received a 1st in a BSc Game Design degree.
+I am a Software and Game Developer who received a 1st in a BSc Game Design degree and now works as a Junior Software Developer professionally.
 
 Whilst I am very much a jack-of-all-trades person, my areas of focus are game programming and design, where I excel at.
 
