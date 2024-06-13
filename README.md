@@ -6,23 +6,25 @@ Game Developer
 
 I am a Software and Game Developer who received a 1st in a BSc Game Design degree and now works as a Junior Software Developer professionally.
 
-Whilst I am very much a jack-of-all-trades person, my areas of focus are game programming and design, where I excel at.
+Whilst I am very much a jack-of-all-trades person, my areas of focus are programming and design, where I excel at.
 
 I am also a Virtual Reality and Tech enthusiast
 
 *   🌍  I'm based in The United Kingdom
 *   🖥️  See my portfolio at [brandonlnyman.co.uk](http://brandonlnyman.co.uk)
 *   ✉️  You can contact me at [contact@brandonlnyman.co.uk](mailto:contact@brandonlnyman.co.uk)
-*   🧠  I'm learning VR game development & web development
+*   🧠  I'm learning VR game development, mobile & web development
 
 
 Familiar Tools
 --------------
 
 ### Web Development
-*   ASP.NET Core
 *   HTML
 *   JavaScript
+*   C#
+*   React
+*   ASP.NET Core
 
 ### Game Engines
 
@@ -34,7 +36,7 @@ Familiar Tools
 *   Git + Github
 *   Plastic SCM
 *   Perforce
-*   BitBucket + Jira
+*   BitBucket + Jira/Trello
 
 ### Skills 
 <p align="left">
